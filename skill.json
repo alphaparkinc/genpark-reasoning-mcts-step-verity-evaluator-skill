@@ -1,0 +1,15 @@
+{
+  "name": "genpark-reasoning-mcts-step-verity-evaluator-skill",
+  "version": "1.0.0",
+  "description": "GenPark Reasoning MCTS Step Verity Evaluator - Implements Monte Carlo Tree Search (MCTS) Step-Level Process Reward Modeling (PRM) & Hallucination Branch Pruning.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "deepseek-r1",
+    "mcts",
+    "process-reward-model",
+    "test-time-compute",
+    "mcp"
+  ]
+}
